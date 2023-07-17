@@ -340,7 +340,8 @@
       </trans-unit>
       <trans-unit id="8fa76a7978cae2530ff2c22d810fd827e3446e66" resname="listing.new.address.title">
         <source>listing.new.address.title</source>
-        <target>Adress - Fill your address :</target>
+        <!-- <target>Adress - Fill your address :</target> -->
+        <target>Address - Fill the address of the project :</target>
       </trans-unit>
       <trans-unit id="72b732682cffac50b7b04c2703af21318d03a7b5" resname="listing.new.categories.title">
         <source>listing.new.categories.title</source>
