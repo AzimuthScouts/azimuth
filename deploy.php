@@ -11,7 +11,7 @@ const HOSTNAME = 'www192.your-server.de';
 set('application', 'Azimuth');
 
 // Project repository
-set('repository', 'https://github.com/sedlacek-martin/azimuth.git');
+set('repository', 'https://github.com/AzimuthScouts/azimuth.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
 set('git_tty', false);
