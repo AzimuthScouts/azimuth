@@ -29,7 +29,7 @@ parameters:
     cocorico_geo.google_place_api_key: FILL_ME_IN
     cocorico_geo.google_place_server_api_key: FILL_ME_IN
     cocorico_geo.ipinfodb_api_key: null
-    cocorico.google_recaptcha_site_key: 6LcS3WUoAAAAAIqLj6d_6GMjP5u-tn19stLCvw0T
+    cocorico.google_recaptcha_site_key: 6LfZBmYoAAAAAOgiCqT7QyQp4uzgjSotYla3SLQp
     cocorico.deploy.host: fake.cocorico.prod
     cocorico.deploy.dir: /fake/path
     cocorico.deploy.user: fakeuser
