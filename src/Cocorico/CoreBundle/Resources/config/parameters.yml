@@ -8,7 +8,7 @@ parameters:
     cocorico.phone: +420 1243 456 789
     cocorico.address: 67 rue de Provence, 75009, Paris
     cocorico.short_description: 'Cocorico is collaborative consumption platform'
-    cocorico.contact_mail: contact@cocorico.io
+    cocorico.contact_mail: info@azimuth-weconnect.eu
     # To obfuscate see http://wbwip.com/wbw/emailencoder.html
     cocorico.contact_mail_obfuscated: "&#099;&#111;&#110;&#116;&#097;&#099;&#116;&#064;&#099;&#111;&#099;&#111;&#114;&#105;&#099;&#111;&#046;&#105;&#111;"
     cocorico.from_email: info@azimuth-weconnect.eu
